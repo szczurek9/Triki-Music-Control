@@ -5,7 +5,7 @@ Skrypt bazuje na [Wojtekb30/unofficial-triki-api-py](https://github.com/Wojtekb3
 - obrót w lewo → poprzedni
 - potrząśnięcie → play/pause
 
-Skrypt czasem lekko świruje, bo go wygenerowalem z ai, jak chcesz to popraw pod swoje potrzeby.
+Skrypt czasem lekko świruje, bo go wygenerowalem z ai, jak chcesz to popraw pod swoje potrzeby. Mi odpowiada.
 
 Uruchom:
 `py -m pip install -r requirements.txt`
